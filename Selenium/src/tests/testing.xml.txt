@@ -1,0 +1,5 @@
+<test name="test3">
+ <classes>
+ <class name="testWordpress.ParameterizedLoginTest" ></class>
+ </classes>
+</test
